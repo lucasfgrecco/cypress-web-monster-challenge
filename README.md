@@ -51,5 +51,6 @@ npx cypress open
 ```  
 
 ## Demonstração 
+![cypress-web-test - Google Chrome 2024-05-21 14-32-07](https://github.com/lucasfgrecco/cypress-web-monster-challenge/assets/36965935/e95bf7e4-d988-4f73-b830-ba0404f0f5f3)
 
 
