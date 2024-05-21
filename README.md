@@ -38,7 +38,7 @@ Este projeto contém uma suíte de testes automatizados para a página inicial d
   - `fixtures/` - Contém dados estáticos para usar nos testes, se necessário.
 - `cypress.config.js` - Configurações do Cypress.
 
-  ## Execução dos Testes
+## Execução dos Testes
 
 Para executar os testes, você pode usar os seguintes comandos:
 
